@@ -4,7 +4,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      <a className="footer__logo">
         Bruno
       </a>
       
