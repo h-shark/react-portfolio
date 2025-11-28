@@ -4,9 +4,9 @@ import "./footer.css";
 const Footer = () => {
   return (
     <footer>
-      <a className="footer__logo">
+      <p className="footer__logo">
         Bruno
-      </a>
+      </p>
       
       <div className="footer__copyright">
         <small>&copy; Bruno K. All rights reserved</small>
